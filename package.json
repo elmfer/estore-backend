@@ -1,0 +1,32 @@
+{
+  "name": "estore-backend",
+  "version": "1.0.0",
+  "description": "E-Commerce backend to interface with a store database via the HTTP protocol.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmfer/estore-backend.git"
+  },
+  "keywords": [
+    "e-store",
+    "store",
+    "backend",
+    "database",
+    "interface",
+    "sql"
+  ],
+  "author": "elmfer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elmfer/estore-backend/issues"
+  },
+  "homepage": "https://github.com/elmfer/estore-backend#readme",
+  "dependencies": {
+    "env-var": "^7.4.1",
+    "mysql2": "^3.6.3",
+    "sequelize": "^6.33.0"
+  }
+}
