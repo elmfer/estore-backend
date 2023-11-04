@@ -35,7 +35,7 @@ Follow the same formatting when writing Javascript. Write descriptive commits on
  
 ### Tests
  
-As mentioned in the Installation Instructions category, fill you testing database with abritrary data by running `node index.js` in the `seeds` folder. This way, you will be able to test the backend with an actual database without having to alter a production one.
+As mentioned in the Installation Instructions category, fill your testing database with abritrary data by running `node index.js` in the `seeds` folder. This way, you will be able to test the backend with an actual database without having to alter a production one.
  
 ### Questions
  
