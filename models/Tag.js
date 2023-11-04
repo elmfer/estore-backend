@@ -3,6 +3,7 @@ const { Model, DataTypes } = require('sequelize');
 
 class Tag extends Model {};
 
+// Tag entity definition
 Tag.init(
   {
     id: {

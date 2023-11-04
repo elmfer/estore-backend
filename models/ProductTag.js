@@ -3,6 +3,7 @@ const { Model, DataTypes } = require('sequelize');
 
 class ProductTag extends Model {};
 
+// ProductTag entity definition for joining Product and Tag entities
 ProductTag.init(
   {
     id: {

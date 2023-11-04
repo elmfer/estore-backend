@@ -3,6 +3,7 @@ const { Model, DataTypes } = require('sequelize');
 
 class Product extends Model {};
 
+// Product entity definition
 Product.init(
   {
     id: {

@@ -3,6 +3,7 @@ const { Model, DataTypes } = require('sequelize');
 
 class Category extends Model {};
 
+// Category entity definition
 Category.init(
   {
     id: {
